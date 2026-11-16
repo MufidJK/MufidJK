@@ -66,7 +66,7 @@ class Jeka:
 <p align="left"><b>Tools</b></p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=8" alt="tools"/>
-    <img src="antigravity.svg" width="48" height="48" alt="Antigravity IDE" title="Antigravity IDE"/>
+  <img src="antigravity.svg" width="48" height="48" alt="Antigravity IDE" title="Antigravity IDE"/>
 </p>
 
 <!-- ───────────────────────── PROJECTS ───────────────────────── -->
@@ -119,6 +119,15 @@ class Jeka:
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MufidJK&theme=tokyonight&hide_border=true&background=0D1117&ring=A371F7&fire=A371F7&currStreakLabel=A371F7" alt="streak"/>
+</p>
+
+<!-- Snake: dibuat otomatis oleh .github/workflows/snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MufidJK/MufidJK/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MufidJK/MufidJK/output/github-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/MufidJK/MufidJK/output/github-snake-dark.svg"/>
+  </picture>
 </p>
 
 ---
