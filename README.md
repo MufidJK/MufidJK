@@ -66,7 +66,7 @@ class Jeka:
 <p align="left"><b>Tools</b></p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=8" alt="tools"/>
-  <img src="https://raw.githubusercontent.com/MufidJK/MufidJK/main/antigravity.svg" width="48" height="48" alt="Antigravity IDE" title="Antigravity IDE"/>
+    <img src="antigravity.svg" width="48" height="48" alt="Antigravity IDE" title="Antigravity IDE"/>
 </p>
 
 <!-- ───────────────────────── PROJECTS ───────────────────────── -->
