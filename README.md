@@ -75,14 +75,14 @@ class Jeka:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/MufidJK/jalanku">🦯 JalanKu</a></h4>
+      <h4><a href="https://github.com/MufidJK/jalanku">JalanKu</a></h4>
       <p>Obstacle detection prototype for visually impaired users. Detects obstacles through a phone camera and gives voice warnings. Team project.</p>
       <img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python"/>
       <img src="https://img.shields.io/badge/-YOLO-0d1117?style=flat-square&logo=yolo"/>
       <img src="https://img.shields.io/badge/-PyTorch-0d1117?style=flat-square&logo=pytorch"/>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/MufidJK/UAS-ai-mall-customer-analyzer-app">🛍️ Mall Customer Analyzer</a></h4>
+      <h4><a href="https://github.com/MufidJK/UAS-ai-mall-customer-analyzer-app">Mall Customer Analyzer</a></h4>
       <p>Customer segmentation app with K-Means clustering in interactive 2D and 3D. <a href="https://huggingface.co/spaces/mufidjk/mall-customer-analyzer">Live demo</a></p>
       <img src="https://img.shields.io/badge/-Scikit--Learn-0d1117?style=flat-square&logo=scikitlearn"/>
       <img src="https://img.shields.io/badge/-Streamlit-0d1117?style=flat-square&logo=streamlit"/>
@@ -96,7 +96,7 @@ class Jeka:
 <table>
   <tr>
     <td valign="top">
-      <h4><a href="https://github.com/MufidJK/affanverse">🌌 Affanverse</a></h4>
+      <h4><a href="https://github.com/MufidJK/affanverse">Affanverse</a></h4>
       <p>My creative sandbox: a web home for an original Indonesian story universe. Where I experiment with a Next.js frontend, a FastAPI GenAI backend with vector search, a 3D interactive reader, and 6 WebGL/Canvas minigames.</p>
       <img src="https://img.shields.io/badge/-Next.js-0d1117?style=flat-square&logo=nextdotjs"/>
       <img src="https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi"/>
